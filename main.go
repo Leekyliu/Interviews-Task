@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 	"runtime"
-
+	
 	"github.com/veandco/go-sdl2/sdl"
 )
 
