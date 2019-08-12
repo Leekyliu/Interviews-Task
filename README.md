@@ -7,3 +7,5 @@ go get -v github.com/veandco/go-sdl2/{sdl,img,mix,ttf}
 Run the command line
 go build *.go
 go run *.go
+
+Use 'W' 'A' 'S' 'D' or '↑''←''↓'→' to control
